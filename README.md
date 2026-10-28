@@ -31,3 +31,5 @@ Business Analytics and Technology-Driven Solutions
 Current Focus
 
 Strengthening my Python programming fundamentals, exploring data-driven problem-solving, and building practical projects to expand my technical expertise.
+
+Reach out: www.linkedin.com/in/diksha-asija-55369b421
